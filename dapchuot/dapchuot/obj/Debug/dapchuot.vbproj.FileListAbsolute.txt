@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\dapchuot\dapchuot\bin\Debug\dapchuot.exe.config
+C:\Users\Admin\source\repos\dapchuot\dapchuot\bin\Debug\dapchuot.exe
+C:\Users\Admin\source\repos\dapchuot\dapchuot\bin\Debug\dapchuot.pdb
+C:\Users\Admin\source\repos\dapchuot\dapchuot\bin\Debug\dapchuot.xml
+C:\Users\Admin\source\repos\dapchuot\dapchuot\bin\Debug\vi\dapchuot.resources.dll
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.Form1.resources
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.LobbyForm.resources
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.HighScoresForm.resources
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.Resources.resources
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.Form1.vi.resources
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\vi\dapchuot.resources.dll
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.exe
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.xml
+C:\Users\Admin\source\repos\dapchuot\dapchuot\obj\Debug\dapchuot.pdb
